@@ -1,0 +1,1 @@
+run = "npm install && export PATH=$PWD/node_modules/ffmpeg-static:$PATH && node index.js"
