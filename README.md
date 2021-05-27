@@ -22,3 +22,11 @@ Long time no see? There is a reason behind this. Linus Bot Tips has gone through
 
 FAQ:
 1. Drive the bus
+
+**CREDITS**
+1. @healzer for the speech recognition script.
+2. @navaneethkm004 for the Youtube to MP3 converter script.
+3. @canta-slaus for helping me out with the leaderboardOne.js script.
+4. @brexite for helping me out with a lot of bugs.
+
+Drink some dishwasher fluid 2nite
